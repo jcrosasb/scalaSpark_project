@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/opt/airflow/dags/scalaSpark_project/src/main/scala/call_logs_read_data.scala:6:8: call_logs_read_data is already defined as object call_logs_read_data[0m
+[0m[[0m[31merror[0m] [0m[0mobject call_logs_read_data {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

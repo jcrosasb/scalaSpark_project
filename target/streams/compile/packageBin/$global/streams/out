@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /opt/airflow/dags/scalaSpark_project/target/scala-2.11/scalaspark_project_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadHDFSCSVFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/ReadHDFSCSVFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_read_data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_read_data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_processing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_processing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_read_and_process.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_read_and_process.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_read_data$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_read_data$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadHDFSCSVFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/ReadHDFSCSVFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_read_and_process$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_read_and_process$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	call_logs_processing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /opt/airflow/dags/scalaSpark_project/target/scala-2.11/classes/call_logs_processing$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
